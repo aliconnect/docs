@@ -6,7 +6,7 @@ This module will introduce you to working with the Aliconnect SDK in creating a 
 
 In this lab you will create a JavaScript single-page application, configured with Aliconnect for authentication & authorization, that accesses data in your own private data storage
 
-1. [Aliconnect SDK JavaScript tutorial](spa/tutorial/Step-1-Build-JavaScript-Single-Page-Apps-with-Aliconnect-API)
+1. [Aliconnect SDK JavaScript tutorial](tutorial/Step-1-Build-JavaScript-Single-Page-Apps-with-Aliconnect-API.md)
 
 ## Completed sample
 
