@@ -1,0 +1,8 @@
+- **Contact**
+    - Telefoon:  [026 3390790](tel:+31263390790)
+    - E-Mail: [info@alicon.nl](mailto:info@alicon.nl)
+- **Bezoekadres**
+    - Klingelbeekseweg 67
+    - 6862 VS Oosterbeek
+- **Postadres**
+    - Geelkerkenkamp 14 A<br>6862 ER Oosterbeek

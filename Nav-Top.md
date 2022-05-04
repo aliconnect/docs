@@ -1,0 +1,103 @@
+- [Explore](Home.md)
+    - Legal
+        - [Algemene voorwaarden](Explore-Legal-Algemene-voorwaarden.md)
+        - [Gebruikersvoorwaarden](Explore-Legal-Terms-of-use.md)
+        - [Privacy beleid](Explore-Legal-Privacy-policy.md)
+        - [Cookie beleid](Explore-Legal-Cookie-policy.md)
+        - [Copyright beleid](Explore-Legal-Copyright-policy.md)
+    - Overview
+        - [Product overzicht](Explore-Overview-Product.md)
+        - [Authenticatie](Explore-Overview-Authentication.md)
+    - Whats new
+        - [Modifications](Archive-Modifications.md)
+        - [Roadmap](Explore-Roadmap.md)
+        - [Change Log](Explore-Changelog.md)
+        - [TODO](Explore-Development-issues.md)
+- Learn
+    - Configure
+        - [Get Started](Learn-Config-Get-started.md)
+        - Schemas
+          - [Item](Learn-Config-Schema-Item.md)
+          - [Folder](Learn-Config-Schema-Folder.md)
+          - [Contact](Learn-Config-Schema-Contact.md)
+          - [Company](Learn-Config-Schema-Company.md)
+          - [Config Enterprise](Learn-Config-Schema-Enterprise.md)
+          - [Site](Learn-Config-Schema-Site.md)
+          - [Config Area](Learn-Config-Schema-Area.md)
+          - [ProcessCell](Learn-Config-Schema-ProcessCell.md)
+          - [Unit](Learn-Config-Schema-Unit.md)
+          - [EquipmentModule](Learn-Config-Schema-EquipmentModule.md)
+          - [ControlModule](Learn-Config-Schema-ControlModule.md)
+          - [Control](Learn-Config-Schema-Control.md)
+          - [ControlIO](Learn-Config-Schema-ControlIO.md)
+          - [Device](Learn-Config-Schema-Device.md)
+          - [Attribute](Learn-Config-Schema-Attribute.md)
+        - Imports
+          - [Create Excel web API import](Learn-Config-Import-Excel.md)
+        - Configure Control
+          - [YAML Rule Configuration](Learn-Config-Control-Rules.md)
+        - Standards
+          - [YAML Basics](Learn-YAML-Basics.md)
+          - [Markdown](Learn-Markdown.md)
+        - AIM
+          - [Mastering the URL](Learn-AIM-Mastering-the-URL.md)
+        - Coding
+          - [Naming conventions](Learn-Coding-Naming-conventions.md)
+          - [Inline Documentation Standards](Learn-Coding-Inline-documentation.md)
+        - Javascript
+          - [JSON Object Notation Schema getting started](Learn-Javascript-JSON.md)
+          - [JSON Web Token JWT](Learn-Javascript-JWT.md)
+        - HTTP
+          - [Response codes](Learn-HTTP-Error-codes.md)
+        - OData
+          - [Basic Tutorial](Learn-OData-Basics.md)
+          - [JSON Format](Learn-OData-JSON-Format.md)
+          - [Object ID definition](Learn-OData-Object-ID-Definition.md)
+          - [Protocol](Learn-OData-Protocol.md)
+            - [OData Details](Learn-OData-Protocol-Details.md)
+          - [URL Conventions](Learn-OData-URL-Conventions.md)
+        - [Open API Specification 3.0](Learn-Open-API-Specification.md)
+        - [Open SSL](Learn-Open-SSL.md)
+        - [Regex](Learn-RegEx.md)
+        - [How to write wiki documenten](Learn-Wiki-Write-document.md)
+        - [Hoe schrijf je documentatie](Learn-Documentatie-schrijven.md)
+- Develop
+    - Javascript
+        - [Login Local](Develop-Javascript-Login.md)
+        - [Form Input Draw](Develop-Javascript-Form-Input-Draw.md)
+        - [Develop Notification](Develop-Javascript-Notification.md)
+        - [PDF 2 TEXT](Develop-Javascript-PDF-to-TXT.md)
+    - [PHP](Develop-PHP.md)
+        - [SOAP](Develop-PHP-SOAP.md)
+    - Services
+        - [Cloud Mailer](Develop-Service-Mailer.md)
+        - [Cloud Printer](Develop-Service-Printer.md)
+        - [Hoe maak ik de app installeerbaar](Develop-Mobile-webapp.md)
+    - Setup
+        - [Project directory structure](Setup-Project-directory-structure.md)
+        - [Developer Workstation](Setup-Windows-Workstation-Developer.md)
+        - [Station](Setup-Windows-Workstation-Developer-Station.md)
+        - [Core](Setup-Windows-Workstation-Developer-Core.md)
+        - [Setup Server](Learn-Setup-Windows-Server-Aliconnect.md)
+    - Windows
+        - [Learn Setup Windows](Learn-Setup-Windows.md)
+        - [Office](Setup-Windows-Office.md)
+          - [Create Word web add-in](Setup-Windows-Office-Word-Webapp.md)
+        - Workstation
+          - [Developer](Setup-Windows-Workstation-Developer.md)
+        - Server
+          - [IIS PHP](Setup-Windows-Server-IIS.md)
+          - [SQL](Setup-Windows-Server-SQL.md)
+          - [2012](Setup-Windows-Server-2012.md)
+          - [Web.config](Setup-Windows-Server-Web.config.md)
+          - [AimNode SSL](Setup-Windows-Server-SSL.md)
+          - [FTP](Setup-Windows-Server-FTP.md)
+          - [SNMP](Setup-Windows-Server-SNMP.md)
+          - [Auto start application](Setup-Windows-Auto-start-application.md)
+          - [Automatic reboot and reload](Setup-Windows-Automatic-reboot-and-reload.md)
+          - [Symbolic Links](Setup-Windows-Symbolic-Links.md)
+    - Tutorials
+        - Get started with Aliconnect
+          - [Build JavaScript Single Page Apps with AliconnectAPI](/docs/tutorial/get-started/spa/tutorial/Step-1-Build-JavaScript-Single-Page-Apps-with-Aliconnect-API.md)
+- [Contact](Contact.md)
+- [Wiki](https//github.com/aliconnect/aliconnect.sdk/wiki.md)
